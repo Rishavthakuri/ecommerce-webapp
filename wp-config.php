@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'asphales' );
+define( 'DB_NAME', 'asphales_825800527c_database' );
 
 /** Database username */
-define( 'DB_USER', 'poacznjdfk' );
+define( 'DB_USER', 'asphales-825800527c-wpidentity' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Support@54321' );
