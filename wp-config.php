@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'asphales' );
 
 /** Database username */
-define( 'DB_USER', 'poacznjdfk@asphales-825800527c-wpdbserver.mysql.database.azure.com' );
+define( 'DB_USER', 'poacznjdfk' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Support@54321' );
